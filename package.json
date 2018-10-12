@@ -1,0 +1,8 @@
+{
+  "name": "hackjsy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/timkrins/hackjsy.git",
+  "author": "Tim Krins",
+  "license": "MIT"
+}
